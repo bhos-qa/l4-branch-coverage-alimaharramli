@@ -1,0 +1,3 @@
+###  Line coverage is a basic version of test coverage. When a test suite is run, code coverage records which lines of code were hit. Line coverage, thus, is the total number of lines run divided by the number of lines in the codebase.
+### Branch coverage is a metric that indicates whether all branches in a codebase are exercised by tests.
+### Condition coverage is also known as Predicate Coverage in which each one of the Boolean expression have been evaluated to both TRUE and FALSE.
